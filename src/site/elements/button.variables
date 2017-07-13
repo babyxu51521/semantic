@@ -1,0 +1,9 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+@background: white;
+@hoverBackgroundColor: #f2f2f2;
+@downBackgroundColor: white;
+@horizontalMargin: 0;
+@borderRadius: 0;
+@horizontalMargin: 13px;

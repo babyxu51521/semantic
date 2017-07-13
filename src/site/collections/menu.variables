@@ -1,0 +1,9 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+@border: 0;
+@boxShadow: 0;
+@itemVerticalPadding: 1.2em;
+@itemHorizontalPadding: 1.8em;
+@dropdownBackground: #f2f2f2;
+@dividerSize: 0;
